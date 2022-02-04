@@ -1,0 +1,7 @@
+Valid_cron_expression = '0 22 * * 5-5 /usr/bin/find'
+Invalid_cron_expression = '0 22 * 6/* 5-5 /usr/bin/find'
+Minutes = '*/20'
+Hours = '2-4'
+Days_in_month = '6,8,9'
+Days_in_week = '*'
+Command = '/usr/bin/find'

@@ -10,18 +10,20 @@ to show the times at which it will run.
 This repo parse the give corn expression and return the result as below.
 
 Input:- 
+```
 */15 0 1,15 * 1-5 /usr/bin/find
-
+```
 
 output:-
+```
 minute 0 15 30 45
 hour 0
 day of month 1 15
 month 1 2 3 4 5 6 7 8 9 10 11 12
 day of week 1 2 3 4 5
 command /usr/bin/find
-
-** Setting up local development:-**
+```
+**Setting up local development:-**
 
 1. Install python 3
 ex:- On Mac(for brew user) 
